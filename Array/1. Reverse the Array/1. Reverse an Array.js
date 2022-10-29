@@ -10,6 +10,10 @@ Output:
 4 3 2 1
 */
 
+// T.C-> O(log N)
+// S.C-> O(1)
+
+
 let arr = [1,2,3,4]
 let i=0;
 let j=arr.length-1;
